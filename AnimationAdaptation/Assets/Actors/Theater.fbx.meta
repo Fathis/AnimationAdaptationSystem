@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 7d17e01cf6722d54d874a32e881b852e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: Cube
+    100004: Cube.000
+    100006: Floor
+    100008: Sitzreihe1
+    100010: Sitzreihe1.001
+    100012: Sitzreihe2
+    100014: Sitzreihe3
+    100016: Sitzreihe4
+    100018: Sitzreihe5
+    100020: Sitzreihe6
+    100022: Stage
+    100024: StageLightingRailStanding.001
+    100026: //RootNode
+    100028: TheaterCeiling
+    100030: TheaterDoor
+    100032: TheaterDoor.001
+    100034: TheaterStageWall
+    100036: TheaterStageWall.001
+    100038: Wall
+    100040: Wall.001
+    100042: WallLongLeft
+    100044: WallLongRight
+    100046: WallPillars
+    100048: WallPillars.001
+    100050: WallSmallPillars
+    100052: WallSmallPillars.001
+    400000: BezierCurve
+    400002: Cube
+    400004: Cube.000
+    400006: Floor
+    400008: Sitzreihe1
+    400010: Sitzreihe1.001
+    400012: Sitzreihe2
+    400014: Sitzreihe3
+    400016: Sitzreihe4
+    400018: Sitzreihe5
+    400020: Sitzreihe6
+    400022: Stage
+    400024: StageLightingRailStanding.001
+    400026: //RootNode
+    400028: TheaterCeiling
+    400030: TheaterDoor
+    400032: TheaterDoor.001
+    400034: TheaterStageWall
+    400036: TheaterStageWall.001
+    400038: Wall
+    400040: Wall.001
+    400042: WallLongLeft
+    400044: WallLongRight
+    400046: WallPillars
+    400048: WallPillars.001
+    400050: WallSmallPillars
+    400052: WallSmallPillars.001
+    2100000: Door
+    2100002: DoorHandle
+    2100004: WoodChair
+    2100006: Cushion
+    2100008: ChairFoot
+    2100010: TheaterStageWall
+    2100012: TheaterStageWallWood
+    2100014: StageLightRailing
+    2100016: StageLightRailingHolder
+    2100018: TheaterCeiling
+    2100020: Wood
+    2100022: Wall
+    2100024: RankRailing
+    2100026: RankWood
+    2100028: RankMetal
+    2100030: Floor
+    2100032: Carpet
+    2100034: Human
+    2100036: StageRim
+    2100038: Stage
+    2300000: BezierCurve
+    2300002: Cube
+    2300004: Cube.000
+    2300006: Floor
+    2300008: Sitzreihe1
+    2300010: Sitzreihe1.001
+    2300012: Sitzreihe2
+    2300014: Sitzreihe3
+    2300016: Sitzreihe4
+    2300018: Sitzreihe5
+    2300020: Sitzreihe6
+    2300022: Stage
+    2300024: StageLightingRailStanding.001
+    2300026: TheaterCeiling
+    2300028: TheaterDoor
+    2300030: TheaterDoor.001
+    2300032: TheaterStageWall
+    2300034: TheaterStageWall.001
+    2300036: Wall
+    2300038: Wall.001
+    2300040: WallLongLeft
+    2300042: WallLongRight
+    2300044: WallPillars
+    2300046: WallPillars.001
+    2300048: WallSmallPillars
+    2300050: WallSmallPillars.001
+    3300000: BezierCurve
+    3300002: Cube
+    3300004: Cube.000
+    3300006: Floor
+    3300008: Sitzreihe1
+    3300010: Sitzreihe1.001
+    3300012: Sitzreihe2
+    3300014: Sitzreihe3
+    3300016: Sitzreihe4
+    3300018: Sitzreihe5
+    3300020: Sitzreihe6
+    3300022: Stage
+    3300024: StageLightingRailStanding.001
+    3300026: TheaterCeiling
+    3300028: TheaterDoor
+    3300030: TheaterDoor.001
+    3300032: TheaterStageWall
+    3300034: TheaterStageWall.001
+    3300036: Wall
+    3300038: Wall.001
+    3300040: WallLongLeft
+    3300042: WallLongRight
+    3300044: WallPillars
+    3300046: WallPillars.001
+    3300048: WallSmallPillars
+    3300050: WallSmallPillars.001
+    4300000: TheaterDoor.001
+    4300002: TheaterDoor
+    4300004: Sitzreihe1.001
+    4300006: TheaterStageWall.001
+    4300008: StageLightingRailStanding.001
+    4300010: TheaterStageWall
+    4300012: TheaterCeiling
+    4300014: WallSmallPillars.001
+    4300016: Wall.001
+    4300018: BezierCurve
+    4300020: Sitzreihe6
+    4300022: Sitzreihe5
+    4300024: Sitzreihe4
+    4300026: Sitzreihe3
+    4300028: Sitzreihe2
+    4300030: Sitzreihe1
+    4300032: WallLongLeft
+    4300034: Cube
+    4300036: Floor
+    4300038: WallPillars.001
+    4300040: WallLongRight
+    4300042: Wall
+    4300044: WallSmallPillars
+    4300046: Cube.000
+    4300048: WallPillars
+    4300050: Stage
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 9fb7554a4e858fb44b4b7ac4290616d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairFoot
+    second: {fileID: 2100000, guid: da92f0a9957a96b4f8b314a8ffe467ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cushion
+    second: {fileID: 2100000, guid: f06f47a0df14a94438955f8fd2bf894b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: aec97d12ddefd7a4db70e4fe952d3a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorHandle
+    second: {fileID: 2100000, guid: 20fe4338c568ade4fa2c41696959913d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: f794fcfc12b2cd7499c447fe3a04dedc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Human
+    second: {fileID: 2100000, guid: 37c018f3fb0aebb4da5a8e0bcf522c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RankMetal
+    second: {fileID: 2100000, guid: cb91df65f74912c45a875c81ede59ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RankRailing
+    second: {fileID: 2100000, guid: 93e0de895dfc6424da1e5a26f0cd638f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RankWood
+    second: {fileID: 2100000, guid: 4e162061ca54f7e4fa251a3a890f1112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage
+    second: {fileID: 2100000, guid: 4e52d92ec6570c44a90028cc8cc96710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageLightRailing
+    second: {fileID: 2100000, guid: 003325d2800cdde4998e2ba62cfa96fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageLightRailingHolder
+    second: {fileID: 2100000, guid: cf2de0ae04c8ca6448642e775f0edcf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageRim
+    second: {fileID: 2100000, guid: 0e762f52eda81be4e8c38b0fbb1aee07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TheaterCeiling
+    second: {fileID: 2100000, guid: 2f6bacfabcc86064786c15571b1c5fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TheaterStageWall
+    second: {fileID: 2100000, guid: 71b60a8ab738aaf43a27b4ee9c95346d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TheaterStageWallWood
+    second: {fileID: 2100000, guid: 895fba23ecdb538449063a5f1b625be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: d5f39ac16d49a9a48b081e46e25f4225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 8fd41a2a7af0da14986c5da15ad77101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodChair
+    second: {fileID: 2100000, guid: 559110c0ca3026a4c8d922a5f5ddb702, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
